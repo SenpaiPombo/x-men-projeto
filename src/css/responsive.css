@@ -1,0 +1,29 @@
+@media (max-width: 1120px) {
+  img.logo {
+    max-width: 190px;
+  }
+
+  main {
+    flex-direction: column-reverse;
+  }
+
+  img.personagem-grande {
+    width: 350px;
+    height: 350px;
+  }
+
+  section.personagem-selecionado {
+    width: 375px;
+  }
+
+  section.personagens{
+    width: 375px;
+  }
+  section ul {
+    gap: 9px;
+  }
+
+  li.personagem img{
+    width: 80px;
+  }
+}
